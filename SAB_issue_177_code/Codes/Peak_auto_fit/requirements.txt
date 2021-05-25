@@ -1,0 +1,7 @@
+pandas
+numpy 
+pandas
+matplotlib
+datetime
+lmfit
+pickle
